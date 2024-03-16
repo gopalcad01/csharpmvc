@@ -1,0 +1,91 @@
+﻿@{
+    ViewData["Title"] = "Jolly Holidays";
+}
+
+
+
+<head>
+	<meta charseet="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Jolly Holidays</title>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<link rel="icon" type="image/x-icon" href="https://i.postimg.cc/3Jqg3jV9/travel.webp"
+	>
+	<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+/>
+<div class="bg-image" 
+     style="background-image: url('https://i.postimg.cc/3Jqg3jV9/travel.webp');
+            height: 200vh no_repeat">
+
+
+</head>
+	
+	<div class="d-inline-flex p-2 bd-highlight bg-warning">
+	<img src="https://i.postimg.cc/BQ8F6vG8/trainimage.png" class="img-rounded" alt="Cinque Terre" width="70" height="50">
+
+<h1>Jolly Holidays</h1>
+</div>
+<div class="ticket">
+	<marquee>Jolly days is always with holidays</marquee>
+</div>
+<h2>Holidays</h2>
+<div class="d-flex p-3 bg-info text-red">
+	<ul>
+	<li><label for="Station From">Station From</label></li>
+	<input type="text" name="Station From" id="Station From" value="From">
+	<select name="LocationFrom" id="LocationFrom">
+		<option  value="--select--">--select--</option>
+	    <option value="EgmoreStation">Egmore Station</option>
+        <option value="TiruchirapalliJnc">"Tiruchirapalli Jnc</option>
+        <option value="MaduraiJnc">Madurai Jnc</option>
+        <option value="KarurJnc">Karur Jnc</option>
+        <option value="KovaiJnc">Kovai Jnc</option>
+        <option value="SalemJnc">Salem Jnc</option>
+    </select>
+	<br>
+	
+   <li> <label for=" Station To"> Station To</label></li>
+	<input type="text" name="Station To" id="Station To" value="To">
+	<select name="LocationTo" id="LocationTo">
+		<option value="--select--">--select--</option>
+		<option value="Karur">Karur</option>
+		<option value="Chennai">Chennai</option>
+		<option vlaue="Nellai">Nellai</option>
+		<option value="Bengalore">Bengalore</option>
+		<option value="Mumbai">Mumbai</option>
+		<option value="TiruchirapalliJnc">TiruchirapalliJnc</option>
+	</select>
+	<br>
+	
+	<li><label for="Date">Date</label></li>
+	<input type="datetime-local" name="Date" id="Date" value="datetime-local">
+	</ul>
+	<script src="JS/SCRIPT.JS">
+	</script>
+	</div>
+	</div>
+	<div class="imagecontainer">
+		
+		
+<div class="swiper">
+	
+	<div class="swiper-wrapper">
+	  
+	  <div class="swiper-slide"><img src="https://picsum.photos/id/780/1300/500" alt=""></div>
+	  <div class="swiper-slide"><img src="https://picsum.photos/id/700/1100/500" alt=""></div>
+	  <div class="swiper-slide"><img src="https://picsum.photos/id/695/1100/500" alt=""></div>
+	  <div class="swiper-slide"><img src="https://picsum.photos/id/579/1100/500" alt=""></div>
+	<div class="swiper-slide"><img src="https://picsum.photos/id/276/1100/500" alt=""></div>
+</div>
+	<div class="swiper-pagination"></div>
+	<div class="swiper-button-prev"></div>
+	<div class="swiper-button-next"></div>
+  
+	<div class="swiper-scrollbar"></div>
+  </div>
+  </div>
+
+
+ 
