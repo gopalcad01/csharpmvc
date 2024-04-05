@@ -78,6 +78,41 @@ SqlDataReader?  dr;
     {
         return View();
     }
+    [HttpGet]
+     public IActionResult Register ()
+    {
+        return View();
+    }
+     void conStr(){
+
+    con.ConnectionString="data source=192.168.1.240\\SQLEXPRESS; database=cad_ttb; user ID=CADBATCH01; Password=CAD@123pass; TrustServerCertificate=True; ";
+     }
+      [HttpPost]
+     public IActionResult RegisterDB(RegisterModel rmodel)
+
+     {   
+
+        {   
+
+         conStr();
+         com.Connection=con;
+         com.CommandText="INSERT INTO ttb_reg (username, Email, password, new_password)VALUES (@username, @Email, @password, @new_password,);";
+         
+
+
+         if(true){
+             return RedirectToAction("Login");
+         }
+         else{
+
+             return RedirectToAction("Error");
+         }
+        return View();
+        
+    }
+        return View();
+        
+    }
     
     
     

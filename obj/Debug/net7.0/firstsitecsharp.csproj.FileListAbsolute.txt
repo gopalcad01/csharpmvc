@@ -404,3 +404,5 @@ C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\bin\Debug\ne
 C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutAdmin.cshtml.rz.scp.css
+C:\Users\gopalcad01\Desktop\CADBATCH\PROJECT\csharp\firstsitecsharp\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutTraveller.cshtml.rz.scp.css

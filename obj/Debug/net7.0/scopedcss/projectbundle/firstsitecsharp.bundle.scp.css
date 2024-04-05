@@ -53,3 +53,113 @@ button.accept-policy[b-yorcmd2e4c] {
   height:50px;
 
 }
+/* _content/firstsitecsharp/Views/Shared/_LayoutAdmin.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-x5nysmd2vj] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-x5nysmd2vj] {
+  color: #0077cc;
+}
+
+.btn-primary[b-x5nysmd2vj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-x5nysmd2vj], .nav-pills .show > .nav-link[b-x5nysmd2vj] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-x5nysmd2vj] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-x5nysmd2vj] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-x5nysmd2vj] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-x5nysmd2vj] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-x5nysmd2vj] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+.nav-item[b-x5nysmd2vj]{
+  background-color:red;
+  width:100%;
+  height:50px;
+
+}
+/* _content/firstsitecsharp/Views/Shared/_LayoutTraveller.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-yqw6lgth6n] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-yqw6lgth6n] {
+  color: #0077cc;
+}
+
+.btn-primary[b-yqw6lgth6n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-yqw6lgth6n], .nav-pills .show > .nav-link[b-yqw6lgth6n] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-yqw6lgth6n] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-yqw6lgth6n] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-yqw6lgth6n] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-yqw6lgth6n] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-yqw6lgth6n] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+.nav-item[b-yqw6lgth6n]{
+  background-color:red;
+  width:100%;
+  height:50px;
+
+}

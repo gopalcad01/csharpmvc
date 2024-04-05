@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Zok//k+WpLVnZuNViPcxrOdx3/vzvFftec6xcOaBmwA=",
+  "Hash": "g3BZWWLGo6Mw6t5Zcq3uuwGahjLRADzRILLeEaUWDNo=",
   "Source": "firstsitecsharp",
   "BasePath": "_content/firstsitecsharp",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\firstsitecsharp.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\font-awesome.css",
+      "SourceId": "firstsitecsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\",
+      "BasePath": "_content/firstsitecsharp",
+      "RelativePath": "css/font-awesome.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
+    },
+    {
       "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\log.css",
       "SourceId": "firstsitecsharp",
       "SourceType": "Discovered",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\log.css"
+    },
+    {
+      "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\Register.css",
+      "SourceId": "firstsitecsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\",
+      "BasePath": "_content/firstsitecsharp",
+      "RelativePath": "css/Register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Register.css"
     },
     {
       "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\site.css",
@@ -100,6 +134,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\img\\bg.jpg",
+      "SourceId": "firstsitecsharp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\",
+      "BasePath": "_content/firstsitecsharp",
+      "RelativePath": "img/bg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\bg.jpg"
     },
     {
       "Identity": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\img\\travel.jpg",

@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets\\firstsitecsharp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\Register.css",
+      "PackagePath": "staticwebassets\\css\\Register.css"
+    },
+    {
+      "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
       "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\css\\log.css",
       "PackagePath": "staticwebassets\\css\\log.css"
     },
@@ -15,6 +23,10 @@
     {
       "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\img\\bg.jpg",
+      "PackagePath": "staticwebassets\\img\\bg.jpg"
     },
     {
       "Id": "C:\\Users\\gopalcad01\\Desktop\\CADBATCH\\PROJECT\\csharp\\firstsitecsharp\\wwwroot\\img\\travel.jpg",

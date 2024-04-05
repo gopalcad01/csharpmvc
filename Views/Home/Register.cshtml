@@ -1,0 +1,51 @@
+@{
+    ViewData["Title"] = "Register";
+}
+
+	
+
+<!-- login -->
+	<h1 class="wthree">Holidays Register Form</h1>
+	<div class="login-section-agileits">
+		<h3 class="form-head">register online today, Its'free!</h3>
+		<form action="RegisterDB" method="post">
+			<div class="w3ls-icon">
+				<span class="fa fa-user" aria-hidden="true"></span>
+				<input type="text" class="user" name="uname" placeholder="username" required="" />
+			</div>
+			<div class="w3ls-icon">
+				<span class="fa fa-envelope" aria-hidden="true"></span>
+				<input type="email" class="user" name="email" placeholder="Email" required="" />
+			</div>
+			<div class="w3ls-icon">
+				<span class="fa fa-lock" aria-hidden="true"></span>
+				<input type="password" class="lock" id="password1" name="password" placeholder="Password" required="" />
+			</div>
+			<div class="w3ls-icon">
+				<span class="fa fa-lock" aria-hidden="true"></span>
+				<input type="password" class="lock" id="password2" name="new_password" placeholder="New Password" required="" />
+			</div>
+			<input type="submit" value="register now">
+		</form>
+	</div>
+	<p class="footer-agile">© 2017 Appraise Register Form. All Rights Reserved | Design by
+		<a href="http://w3layouts.com/"> W3layouts</a>
+	</p>
+
+
+	<script type="text/javascript">
+		window.onload = function () {
+			document.getElementById("password1").onchange = validatePassword;
+			document.getElementById("password2").onchange = validatePassword;
+		}
+
+		function validatePassword() {
+			var pass2 = document.getElementById("password2").value;
+			var pass1 = document.getElementById("password1").value;
+			if (pass1 != pass2)
+				document.getElementById("password2").setCustomValidity("Passwords do not Match");
+			else
+				document.getElementById("password2").setCustomValidity('');
+			//empty string means no validation error
+		}
+	</script>
